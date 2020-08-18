@@ -3,7 +3,7 @@
 The file *SM630Commands.cs* allows you to communicate with the SM630 Fingerprint module in your C#/Arduino based projects.
 
 ### NOTE: 
-1. This is a C# implementation of the Arduino library for the SM630 fingerprint module. 
+1. This is a C# implementation of the Arduino commands for the SM630 fingerprint module. 
 2. An understanding of the SM630 fingerprint Arduino library is recommended. 
 3. An understanding of C# is recommended so as to modify the .cs file to suit your need.
 
